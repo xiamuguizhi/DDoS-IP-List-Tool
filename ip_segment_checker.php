@@ -3,7 +3,7 @@
 /**
  * @file        ddos-ip-handler.php
  * @description 读取并处理包含恶意攻击IP地址的文件，提取并输出其中的IP地址。
- * @author      [夏目贵志/https://github.com/xiamuguizhi/]
+ * @author      夏目贵志 / https://github.com/xiamuguizhi/
  * @date        2024-08-27
  */
 
