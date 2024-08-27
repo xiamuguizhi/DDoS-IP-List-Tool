@@ -61,3 +61,8 @@
   - `10.0.0.0/24`
 - **已存在的IP段**：
   - `192.168.0.0/24`（转换后的结果）
+ 
+### 截图
+
+![image](https://github.com/user-attachments/assets/1cd885d9-390d-4a1c-92be-96346f1190d1)
+
