@@ -6,3 +6,5 @@
 - DDoS攻击的IP地址网段，使用CIDR格式表示
 
 这个仓库为个人用户提供了一种简单的方式，来追踪和管理曾经威胁到其网络安全的IP地址。
+
+![image](https://github.com/user-attachments/assets/971eaa8e-f064-49b7-a84e-9f3317a63789)
